@@ -1,7 +1,7 @@
 {
   "name": "peanut",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/peanut",
+  "homepage": "https://tnguyen0393.github.io/peanut",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
