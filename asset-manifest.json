@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peanut/static/css/main.073c9b0a.css",
+    "main.js": "/peanut/static/js/main.09a521be.js",
+    "static/js/787.6c1bea29.chunk.js": "/peanut/static/js/787.6c1bea29.chunk.js",
+    "index.html": "/peanut/index.html",
+    "main.073c9b0a.css.map": "/peanut/static/css/main.073c9b0a.css.map",
+    "main.09a521be.js.map": "/peanut/static/js/main.09a521be.js.map",
+    "787.6c1bea29.chunk.js.map": "/peanut/static/js/787.6c1bea29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.09a521be.js"
+  ]
+}
